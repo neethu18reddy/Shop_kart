@@ -1,0 +1,10 @@
+{
+  "name": "shopkart-mern-project",
+  "version": "1.0.0",
+  "description": "ShopKart Full Stack MERN Engineering Labs 01 & 02",
+  "scripts": {
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "test:backend": "npm --prefix backend test"
+  }
+}
