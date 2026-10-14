@@ -20,7 +20,6 @@ Project 1/
 │   ├── utils/
 │   │   └── generateToken.js
 │   ├── test-suite.js         # Automated test suite (18/18 tests passed)
-│   ├── viva_prep_guide.md    # Lab 01 Viva Q&A Guide
 │   ├── .env
 │   ├── index.js
 │   └── package.json
@@ -38,7 +37,6 @@ Project 1/
 │   │   ├── App.jsx           # React Router DOM configuration
 │   │   ├── index.css         # Modern responsive UI design
 │   │   └── main.jsx
-│   ├── viva_prep_lab2.md     # Lab 02 Viva Q&A Guide
 │   └── package.json
 │
 └── package.json              # Root helper scripts
@@ -62,9 +60,3 @@ npm run dev
 ```
 *Frontend runs at `http://localhost:5173`.*
 
----
-
-## 🎓 Viva Preparation Guides
-
-- **Lab 01 (Backend Viva):** See [`backend/viva_prep_guide.md`](./backend/viva_prep_guide.md)
-- **Lab 02 (Frontend Viva):** See [`frontend/viva_prep_lab2.md`](./frontend/viva_prep_lab2.md)

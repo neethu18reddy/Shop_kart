@@ -24,7 +24,6 @@ backend/
 ├── utils/
 │   └── generateToken.js         # Signs JWT and configures HttpOnly cookie
 │
-├── viva_prep_guide.md           # Complete TA Viva Q&A Cheat Sheet
 ├── .env                         # Environment variables (PORT, MONGO_URI, JWT_SECRET)
 ├── .env.example                 # Example template for environment configuration
 ├── index.js                     # Server entry point, DB connection, and middleware configuration
